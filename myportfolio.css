@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+li{
+    display: inline;
+    padding: 20px;
+}
+header{
+    background-color: rgb(176, 230, 237);
+    padding: 20px;
+}
+.p1{
+    font-style: oblique;
+}
+img{
+    border-radius: 300px;
+}
+.p2{
+    background-color: aqua;
+}
+.p3{
+    background-color: black;
+    color: white;
+}
